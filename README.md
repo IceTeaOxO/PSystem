@@ -8,3 +8,6 @@ funciton放置python相關後端演算法、程式<br/>
 安裝flask<br/>
 pip install -r requirements.txt<br/>
 
+## SQLite
+<br/>
+https://www.runoob.com/sqlite/sqlite-python.html
